@@ -1,0 +1,14 @@
+{
+  "name": "demonode",
+  "version": "1.0.0",
+  "description": "node with azure",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Venky Venkataraman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
